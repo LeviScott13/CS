@@ -1,0 +1,44 @@
+ ----jGRASP exec: java MyAccountTester
+ ----   at: Feb 24, 2017 9:13:04 PM
+
+
+Name:             	Unknown
+Account Number:   	99999
+Original Balance: 	$0.00
+Total Deposits:   	$0.00
+Total Withdrawls: 	$0.00
+Current Balance:  	$0.00
+Date Created:     	Fri Feb 24 21:13:04 EST 2017
+
+Name:             	John Smith
+Account Number:   	123456
+Original Balance: 	$1,000.00
+Total Deposits:   	$0.00
+Total Withdrawls: 	$0.00
+Current Balance:  	$1,000.00
+Date Created:     	Fri Feb 24 21:13:04 EST 2017
+
+
+	Account2 owner's name:    	John Smith
+
+	Account2 Current Balance: 	1000.0
+
+Name:             	Kira Jones
+Account Number:   	654321
+Original Balance: 	$0.00
+Total Deposits:   	$500.00
+Total Withdrawls: 	$40.00
+Current Balance:  	$460.00
+Date Created:     	Fri Feb 24 21:13:04 EST 2017
+
+Name:             	John Smith
+Account Number:   	123456
+Original Balance: 	$1,000.00
+Total Deposits:   	$125.00
+Total Withdrawls: 	$250.00
+Current Balance:  	$875.00
+Date Created:     	Fri Feb 24 21:13:04 EST 2017
+
+
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.

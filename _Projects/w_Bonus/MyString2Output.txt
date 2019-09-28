@@ -1,0 +1,28 @@
+1.	Original Char array:                   	CS 1302 B
+
+2.	Original String:                       	Valdosta State University
+
+3.	char at entry 3 in Original Char array:	1
+
+4.	Size of Original String:               	25
+
+5.	substring (0,3) in Original Char array:	CS 1
+
+6.	substring (2) in Original String:      	ldosta State University
+
+7.	Original Char array in upper case:     	CS 1302 B
+
+8.	Original Char array in lower case:     	cs 1302 b
+
+9.	Original string in lower case:         	valdosta state university
+
+10.	is string1 equals to string2:         	false
+
+11.	compare string1 to string2:           	-1
+
+12.	compare string1 to string1:           	0
+
+13.	toChars ms2:                        	valdosta state university
+
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.

@@ -1,0 +1,97 @@
+	***************************** Output Report ***************************
+
+	Course:                     	CS1301              
+	Instructor's Name:          	Fares               
+	School:                     	Valdosta State University
+	Year:                       	2016                
+	Semester:                   	Spring              
+	Number Of Students:         	20                  
+	Number of Tests:            	2                   
+	***********************************************************************
+
+	Number    Name      Test 1    Test 2    Total     Grade     
+	1         Nicholas  20        30        50        F         
+	2         Lebron    90        95        185       A         
+	3         Justyn    15        25        40        F         
+	4         Bilal     60        65        125       D         
+	5         Jamel     75        76        151       C         
+	6         Brooks    82        85        167       B         
+	7         Matthew   62        62        124       D         
+	8         Jonathan  95        96        191       A         
+	9         Yalanda   87        86        173       B         
+	10        Raven     77        78        155       C         
+	11        Zachary   65        66        131       D         
+	12        Michael   81        84        165       B         
+	13        Charles   97        96        193       A         
+	14        Edward    88        87        175       B         
+	15        Zebedee   55        56        111       F         
+	16        Giovanni  73        75        148       C         
+	17        April     12        22        34        F         
+	18        Nicholas  100       100       200       A         
+	19        Joseph    84        85        169       B         
+	20        Giacomo   76        77        153       C         
+
+	Averages            69.70     72.30     
+
+	Student With Lowest Average:
+
+	Nicholas  20        30        50        F         
+
+	Student With Highest Average:
+
+	Nicholas  100       100       200       A         
+
+	*************************** Have A Great Day **************************
+
+	***************************** Output Report ***************************
+
+	Course:                     	CS1302              
+	Instructor's Name:          	Fares               
+	School:                     	Valdosta State University
+	Year:                       	2016                
+	Semester:                   	Fall                
+	Number Of Students:         	25                  
+	Number of Tests:            	3                   
+	***********************************************************************
+
+	Number    Name      Test 1    Test 2    Test 3    Total     Grade     
+	1         Nicholas  20        30        40        90        F         
+	2         Lebron    90        95        100       285       A         
+	3         Justyn    15        25        55        95        F         
+	4         Bilal     60        65        69        194       D         
+	5         Jamel     75        76        79        230       C         
+	6         Brooks    82        85        88        255       B         
+	7         Matthew   62        62        62        186       D         
+	8         Jonathan  95        96        97        288       A         
+	9         Yalanda   87        86        85        258       B         
+	10        Raven     77        78        79        234       C         
+	11        Zachary   65        66        67        198       D         
+	12        Michael   81        84        86        251       B         
+	13        Charles   97        96        95        288       A         
+	14        Edward    88        87        81        256       B         
+	15        Zebedee   55        56        59        170       F         
+	16        Giovanni  73        75        77        225       C         
+	17        April     12        22        42        76        F         
+	18        Nicholas  100       100       100       300       A         
+	19        Joseph    84        85        86        255       B         
+	20        Giacomo   76        77        78        231       C         
+	21        Robert    83        84        89        256       B         
+	22        Patrick   71        76        79        226       C         
+	23        John      45        41        40        126       F         
+	24        Thomas    5         10        7         22        F         
+	25        Timothy   78        78        78        234       C         
+
+	Averages            67.04     69.40     72.72     
+
+	Student With Lowest Average:
+
+	Nicholas  20        30        40        90        F         
+
+	Student With Highest Average:
+
+	Nicholas  100       100       100       300       A         
+
+	*************************** Have A Great Day **************************
+
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.

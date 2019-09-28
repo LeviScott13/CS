@@ -1,0 +1,37 @@
+	************************************************************
+
+	Team Number:               	5
+
+	Team Member 1:             	Levi Sutton
+
+	Team Member 2:             	Cameron Paige
+
+	Course:                    	CS1301
+
+	Date:                      	Fri Mar 24 20:37:10 EDT 2017
+
+	************************************************************
+
+	Longest Token is:          	-1234.567.3456
+
+	Shortest Token is:         	Is
+
+	Number of Digits:          	37
+
+	Number of Lower Case:      	43
+
+	Number of Upper Case:      	17
+
+	Number of Other Characters:	12
+
+	List of Other Character:   	-.+.-..--?!!
+
+	************************************************************
+
+	Number of Numeric Tokens:   	6
+
+	Number of Alphabetic Tokens:	13
+
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.
+

@@ -1,0 +1,114 @@
+
+ ----jGRASP exec: java MyIncomeTax5 Levi Sutton 0 4000
+
+	********************************************************************
+	**                                                                **
+	**        Estimating 2016 Personal Federal Income Tax             **
+	**                                                                **
+	**        CS1301                                                  **
+	**                                                                **
+	**        2/1/2017                                                **
+	**                                                                **
+	********************************************************************
+	
+	Name:                     Levi Sutton                           
+	Status:                  Single Filer                            
+	Annual Income:                4000.00
+	2016 estimated tax due:        400.00
+	
+	********************************************************************
+	**                                                                **
+	**        It is needed but not fun to pay taxes                   **
+	**                                                                **
+	**        Have a good day                                         **
+	**                                                                **
+	********************************************************************
+----jGRASP: operation complete.
+
+ ----jGRASP exec: java MyIncomeTax5 Levi Sutton 1 22000
+
+	********************************************************************
+	**                                                                **
+	**        Estimating 2016 Personal Federal Income Tax             **
+	**                                                                **
+	**        CS1301                                                  **
+	**                                                                **
+	**        2/1/2017                                                **
+	**                                                                **
+	********************************************************************	
+	
+	Name:                     Levi Sutton                           
+	Status:                  Married Filing Jointly or Qualifying Widow(er)                            
+	Annual Income:               22000.00   
+	2016 estimated tax due:       2372.50	
+	
+	********************************************************************
+	**                                                                **
+	**        It is needed but not fun to pay taxes                   **
+	**                                                                **
+	**        Have a good day                                         **
+	**                                                                **
+	********************************************************************
+----jGRASP: operation complete.
+
+ 
+ ----jGRASP exec: java MyIncomeTax5 Levi Sutton 2 60000
+
+	********************************************************************
+	**                                                                **
+	**        Estimating 2016 Personal Federal Income Tax             **
+	**                                                                **
+	**        CS1301                                                  **
+	**                                                                **
+	**        2/1/2017                                                **
+	**                                                                **
+	********************************************************************
+
+	Name:                                  Levi Sutton                           
+	Status:                  Married Filing Seperately                            
+	Annual Income:                            60000.00   
+	2016 estimated tax due:                   10771.25
+
+	********************************************************************
+	**                                                                **
+	**        It is needed but not fun to pay taxes                   **
+	**                                                                **
+	**        Have a good day                                         **
+	**                                                                **
+	********************************************************************
+----jGRASP: operation complete.
+
+
+ ----jGRASP exec: java MyIncomeTax5 Levi Sutton 3 120000
+
+	********************************************************************
+	**                                                                **
+	**        Estimating 2016 Personal Federal Income Tax             **
+	**                                                                **
+	**        CS1301                                                  **
+	**                                                                **
+	**        2/1/2017                                                **
+	**                                                                **
+	********************************************************************
+	
+	Name:                          Levi Sutton                           
+	Status:                  Head of Household                            
+	Annual Income:                   120000.00   
+	2016 estimated tax due:           24297.50
+
+	********************************************************************
+	**                                                                **
+	**        It is needed but not fun to pay taxes                   **
+	**                                                                **
+	**        Have a good day                                         **
+	**                                                                **
+	********************************************************************
+----jGRASP: operation complete.
+
+
+
+
+
+
+
+
